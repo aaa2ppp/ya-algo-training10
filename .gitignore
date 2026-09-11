@@ -1,0 +1,15 @@
+.*
+!.gitignore
+*.exe
+*.bin
+*.pprof
+*.out
+*~
+*.bak
+*.bak[0-9]
+go.work*
+tmp/
+bak/
+bak[0-9]/
+bin/
+lib/
